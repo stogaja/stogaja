@@ -6,7 +6,7 @@
 
 
 #### About Me
-- :paperclip: [Here's my CV](https://github.com/stogaja/stogaja/blob/master/cv/Stephen_Odhiambo_CV2022 (1).pdf)
+- :paperclip: [Here's my CV](https://github.com/stogaja/stogaja/blob/master/cv/Stephen_Odhiambo_CV2022_(1).pdf)
 - :email: ogajasteve76@gmail.com
 
 
