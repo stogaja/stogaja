@@ -6,7 +6,7 @@
 
 - 📫 Mail me at *stephenogaja@gmail.com*
 
-- 📄 Know about my experiences: [Here's my CV](https://github.com/stogaja/stogaja/blob/main/cv/Stephen_Odhiambo_CV2022_(1).pdf)
+- 📄 Know about my experiences: [Here's my CV](https://github.com/stogaja/stogaja/blob/main/cv/STEPHEN-ODHIAMBO-OGAJA-CV-2022.pdf)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=stogaja.stogaja)
 
