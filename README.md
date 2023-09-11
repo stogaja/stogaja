@@ -6,7 +6,7 @@
 
 - 📫 Mail me at *stephenogaja@gmail.com*
 
-- 📄 Know about my experiences: [Here's my CV](https://github.com/stogaja/stogaja/blob/main/cv/STEPHEN-ODHIAMBO-OGAJA-CV-2022.pdf)
+- 📄 Know about my experiences: [Here's my CV](https://github.com/stogaja/stogaja/blob/main/cv/Stephen-Ogaja-CV-2023.pdf)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=onursahil" alt="onursahil" /> </p>
 
