@@ -2,7 +2,9 @@
 
 <h3 align="center">Data Scientist/Machine Leaning Engineer/Cyber Security</h3>
 
-- 🌱 **Data.**
+- 🌱 **Data Analytics.**
+  
+- Here is my **[Portfolio](https://stogaja.github.io/My-Portfolio/index.html)**
 
 - 📫 Mail me at *stephenogaja@gmail.com*
 
