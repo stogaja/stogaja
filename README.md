@@ -12,7 +12,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=onursahil" alt="onursahil" /> </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me on:</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/stephen-odhiambo-ogaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen-odhiambo-ogaja" height="30" width="40" /></a>
